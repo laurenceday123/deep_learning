@@ -8,4 +8,5 @@ Future Ideas
 
 ## To Do
 - [Tensorflow Developer Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice?utm_source=deeplearning-ai&utm_medium=institutions&utm_campaign=TF3)
+- [Natural Language Processing](https://www.coursera.org/specializations/natural-language-processing)
 
