@@ -5,7 +5,8 @@ Storage of example code to build Deep Learning networks
 - [Conditional GANs](https://arxiv.org/pdf/1411.1784.pdf) 
 ![Conditional GAN](https://3qeqpr26caki16dnhd19sv6by6v-wpengine.netdna-ssl.com/wp-content/uploads/2019/05/Example-of-a-Conditional-Generator-and-a-Conditional-Discriminator-in-a-Conditional-Generative-Adversarial-Network-1024x887.png)
 - Wasserstein Loss Function to alleviate mode collapse ([Great video here](https://www.coursera.org/lecture/build-basic-generative-adversarial-networks-gans/mode-collapse-Terkm))
-- Controllable Generation
+- Controllable Generation, disentanglement of z space 
+
 ![Controllable](https://i.imgur.com/TkJZLee.png)
 
 Future Ideas  
